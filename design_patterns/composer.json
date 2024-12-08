@@ -1,0 +1,21 @@
+{
+    "name": "leonardo_castro/designpatterns",
+    "type": "project",
+    "require": {
+        "phpunit/php-timer": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LeonardoCastro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Castro",
+            "email": "leonardo.castro.vidall@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}
